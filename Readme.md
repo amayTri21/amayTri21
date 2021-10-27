@@ -1,6 +1,6 @@
 
  <h1 align='center'>
- Namaste, I am Jignesh:star:
+ Namaste, I am Amay:star:
 </h1>
 
 <p align='center'>
@@ -11,18 +11,16 @@ A Student of Information Technology from Navi Mumbai, India
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/jignesh-mathure-535353213/">
+  <a href="https://www.linkedin.com/in/amay-tripathi-3807aa1b8/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jigsaw.rtf/">
+  <a href="https://www.instagram.com/a_m_a_y18/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-    <a href="https://codepen.io/j1gs4w2487/">
+    <a href="https://codepen.io/amaytri21">
     <img src="https://img.shields.io/badge/codepen-%FFD700.svg?&style=for-the-badge&logo=codepen&logoColor=white" />        
   </a>&nbsp;&nbsp;
-     <a href="https://jig-port.netlify.app//">
-    <img src="https://img.shields.io/badge/Portfolio-%230077B9.svg?&style=for-the-badge&logo=&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+    
   
   
 </p>
@@ -32,8 +30,8 @@ A Student of Information Technology from Navi Mumbai, India
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=J1GS4W2487&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=J1GS4W2487&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amayTri21&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amayTri21&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 
@@ -52,7 +50,8 @@ A Student of Information Technology from Navi Mumbai, India
   
  - ⭐ **Junior College**\
 👨‍🔬2017 - 2019\
-📍 S.S Junior College, Seawoods, Navi Mumbai
+📍 St. Mary's Junior College, Vashi, Navi Mumbai
+  
 
 - ⭐ **IT Engineering**\
 👨‍🎓 2019 - 2023\
@@ -90,7 +89,7 @@ A Student of Information Technology from Navi Mumbai, India
  <br>
 <img align="right" src="https://img.shields.io/badge/Teams-6264A7?logo=Microsoft Teams&logoColor=white" />
 
-- 👨‍💻 **Meeting Co-ordinator**\
+- 👨‍💻 **Sponsorship Committee**\
 📍 **The Computer Society Of India, FCRIT-IT** - Navi Mumbai, India
 
 </details>
@@ -100,12 +99,9 @@ A Student of Information Technology from Navi Mumbai, India
   <summary>📃 Hobbies</summary>
 <br>
 
+-  **Cricket**
 -  **Cycling**
--  **Trekking**
--  **Sports**
 -  **Reading**
--  **Anime**
--  **Podcasts and GK**
 -  **Music**
 </details>
 
