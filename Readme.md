@@ -120,6 +120,7 @@ A Student of Information Technology from Navi Mumbai, India
 <img align="right" src="	https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/ReactJS-61DAFB?logo=React&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/JavaScript-F7DF1a?logo=JavaScript&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white" />
 
  
 **Programming**
